@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm David 👋
+Backend Developer | Java Spring Boot | MySQL
 
-<!--
-**davidsmaha/davidsmaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend APIs and systems using Java Spring Boot.  
+I am passionate about creating clean, tested, and professional code.
 
-Here are some ideas to get you started:
+## 💻 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Library System Backend](https://github.com/davidsmaha/Library-System)**  
+  REST API for managing library books and members, with authentication and CRUD operations.
+
+- **[Gym System Backend](https://github.com/davidsmaha/Gym-Management-System)**  
+  Full backend API for gym members, trainers, schedules, and exercises, with login, CRUD, and status updates.
+
+## 🛠 Tech Stack
+Java, Spring Boot, MySQL/MariaDB, REST APIs, Postman
+
+## 📫 Contact Me
+- Email: `davidsamaha12@gmail.com`  
+- LinkedIn: [https://www.linkedin.com/in/davidsamaha1](https://www.linkedin.com/in/davidsamaha1)
